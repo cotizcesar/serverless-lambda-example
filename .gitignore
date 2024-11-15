@@ -163,6 +163,5 @@ cython_debug/
 
 # Serverless
 package-lock.json
-package.json
 .serverless
 node_modules
